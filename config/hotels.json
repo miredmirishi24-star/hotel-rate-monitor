@@ -1,0 +1,78 @@
+{
+  "hotels": [
+    {
+      "id": "sea-cliff-court",
+      "name": "Sea Cliff Court",
+      "city": "Dar es Salaam",
+      "country": "Tanzania",
+      "latitude": -6.7924,
+      "longitude": 39.2083,
+      "platform_ids": {
+        "expedia": "EXPEDIA_ID_HERE",
+        "booking": "BOOKING_ID_HERE",
+        "trip": "TRIP_ID_HERE",
+        "gds": "GDS_ID_HERE"
+      },
+      "room_types": [
+        "Standard Room",
+        "Deluxe Room",
+        "Suite"
+      ]
+    },
+    {
+      "id": "delta",
+      "name": "Delta",
+      "city": "Dar es Salaam",
+      "country": "Tanzania",
+      "latitude": -6.8000,
+      "longitude": 39.2167,
+      "platform_ids": {
+        "expedia": "EXPEDIA_ID_HERE",
+        "booking": "BOOKING_ID_HERE",
+        "trip": "TRIP_ID_HERE",
+        "gds": "GDS_ID_HERE"
+      },
+      "room_types": [
+        "Standard Room",
+        "Deluxe Room"
+      ]
+    },
+    {
+      "id": "oyster-bay-suites",
+      "name": "Oyster Bay Suites",
+      "city": "Dar es Salaam",
+      "country": "Tanzania",
+      "latitude": -6.7800,
+      "longitude": 39.2250,
+      "platform_ids": {
+        "expedia": "EXPEDIA_ID_HERE",
+        "booking": "BOOKING_ID_HERE",
+        "trip": "TRIP_ID_HERE",
+        "gds": "GDS_ID_HERE"
+      },
+      "room_types": [
+        "Suite",
+        "Deluxe Suite"
+      ]
+    },
+    {
+      "id": "coral-beach",
+      "name": "Coral Beach",
+      "city": "Dar es Salaam",
+      "country": "Tanzania",
+      "latitude": -6.8100,
+      "longitude": 39.1900,
+      "platform_ids": {
+        "expedia": "EXPEDIA_ID_HERE",
+        "booking": "BOOKING_ID_HERE",
+        "trip": "TRIP_ID_HERE",
+        "gds": "GDS_ID_HERE"
+      },
+      "room_types": [
+        "Standard Room",
+        "Deluxe Room",
+        "Oceanview Suite"
+      ]
+    }
+  ]
+}
